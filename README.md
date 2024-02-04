@@ -1,4 +1,4 @@
-[![MasterHead](https://trisya.com/myimg/child/andoroid.gif)](https://abhishekportfolio-2b33c.web.app/)
+[![MasterHead](https://skwebdesigner.co.in/wp-content/uploads/2022/04/banner-bg.gif)](https://abhishekportfolio-2b33c.web.app/)
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align='right' alt='Coding' height="220" width= '400' src='https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'>
